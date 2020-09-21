@@ -2,6 +2,18 @@
 
 int main(void){
 
+    /*
+            printf("%tipo_da_variável_var1 %tipo_da_variável_var2", var1, var2)
+
+            % --> Imprime o caractere
+
+            i --> Interio
+            d --> Inteiro
+            c --> Caracter
+            f --> Ponto flutuante
+    */
+
+
     int a, b, sum;
 
     printf("\nDefina um valor para a: \t");

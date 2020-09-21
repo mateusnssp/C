@@ -12,5 +12,4 @@ int main(void){
     printf("A raíz quadrada de %d é %d.\n", num, sqrt_num);
 
     return 0;
-
 }
