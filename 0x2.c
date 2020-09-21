@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-        Fazer operações de matemática simples;
+        Crie uma calculadora de operadores binários básico (+, -, *, /).
 */
 
 int main(void){

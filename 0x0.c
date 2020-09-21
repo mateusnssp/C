@@ -3,6 +3,9 @@
 int main(void){
 
     /*
+
+        Crie um programa que entrege a soma entre dois valores indicados pelo usuário.
+
             printf("%tipo_da_variável_var1 %tipo_da_variável_var2", var1, var2)
 
             % --> Imprime o caractere
