@@ -1,8 +1,8 @@
-#include <stdio.h>
-
 /*
         Crie uma calculadora de operadores binários básico (+, -, *, /).
 */
+
+#include <stdio.h>
 
 int main(void){
 

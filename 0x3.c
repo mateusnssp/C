@@ -1,9 +1,9 @@
 /*
     Escreva um programa que leia quatro notas de um aluno, calcula a média entre elas
     e retorne se o aluno está aprovado, reprovado ou em recuperação, sendo:
-    (nota < 4)            --> reprovado;
+    (nota < 4)             --> reprovado;
     (nota >= 4 e nota < 6) --> recuperando;
-    (nota >= 6)           --> aprovado.
+    (nota >= 6)            --> aprovado.
 */
 
 #include <stdio.h>
