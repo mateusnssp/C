@@ -6,15 +6,14 @@
 #include <stdio.h>
 #include <math.h>
 
-int main(void){
+int main(void)
+{
+    int num, resultado;
+    printf("Informe um núemro: ");
+    scanf("%i", &num);
 
-    int num, sqrt_num;
-
-    printf("\nInforme um número: \t");
-    scanf("%d", &num);
-
-    sqrt_num = sqrt(num);
-    printf("A raíz quadrada de %d é %d.\n", num, sqrt_num);
+    resultado = sqrt(num);
+    printf("A raiz quadrada de %i é %i.\n", num, resultado);
 
     return 0;
 }
