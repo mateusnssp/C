@@ -1,10 +1,9 @@
+// Faça um programa que imprima "Olá, mundo!" na tela.
+
 #include <stdio.h>
 
-/*
-    Crie um programa que escreva "Olá, mundo!" na tela.
-*/
-
-int main(void){
-    printf("Olá, mundo!\n");
+int main(void)
+{
+    printf("Hello, world!\n");
     return 0;
 }
